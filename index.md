@@ -6,7 +6,7 @@ layout: default
 
 # Experience
 
-### Rails Dev in Fontela Cristales (Feb. 2013 - Present)  
+### Rails Dev in Fontela Cristales (Feb. 2014 - Present)  
 [www.fontela.com.ar](http://www.fontela.com.ar)  
 
 Responsible of the analysis, design, develop and implementation, from scratch, of a glass manufacture system, that could track products through multiple factory stages, in order to get real time order statuses, completion percentage and centralized information for workers, administration staff and management.

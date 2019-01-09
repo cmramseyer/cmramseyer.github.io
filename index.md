@@ -2,95 +2,68 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+> My professional goals are master Front-End technologies to become a Full Stack Developer and be part of global teams around the world.
 
-[Link to another page](./another-page.html).
+# Experience
 
-There should be whitespace between paragraphs.
+### Rails Dev in Fontela Cristales (Feb. 2013 - Present)  
+[www.fontela.com.ar](http://www.fontela.com.ar)  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+Responsible of the analysis, design, develop and implementation, from scratch, of a glass manufacture system, that could track products through multiple factory stages, in order to get real time order statuses, completion percentage and centralized information for workers, administration staff and management.
 
 * * *
 
-### Here is an unordered list:
+### Tester in Neoris (Sep. 2011 - Feb. 2013)  
+[www.neoris.com](http://www.neoris.com)  
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+DirecTV project. Member of a large team distributed along Rosario, Buenos Aires and Bogotá.
 
-### And an ordered list:
+  
+# Technologies
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* Ruby on Rails
+* Postgres
+* Redis
+* Docker
+* Ubuntu
+* Sidekiq
+* Git
+* Gitlab-CI
 
-### And a nested list:
+# Portfolio
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+[Github Public Repository](http://github.com/cmramseyer)
+
+* * *
+
+[Glass Demo App](http://162.243.107.4) User: curriculum Password: cv1234
+
+
+# Education
+### Information Systems Engineering (2004 - 2013)
+**UTN Rosario**. Incomplete. 7 subjects pending.
+
+
+# Languages
+<dl>
+<dt>Spanish</dt>
+<dd>Native</dd>
+<dt>English</dt>
+<dd>Upper intermediate, oral and written</dd>
+</dl>
+
+# Personal Data
+
+<dl>
+<dt>Born Date</dt>
+<dd>22/12/1986</dd>
+<dt>Current Location</dt>
+<dd>Rosario, Argentina</dd>
+<dt>Marital Status</dt>
+<dd>Single</dd>
+</dl>
+
+
 
 ### Small image
 
@@ -100,24 +73,3 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

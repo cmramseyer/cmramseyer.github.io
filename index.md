@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-![Profile Picture]({{ site.url }}/assets/foto3.jpg)
+![Profile Picture]({{ site.url }}/assets/foto4.jpg)
+![Profile Picture]({{ site.url }}/assets/foto5.jpg)
+![Profile Picture]({{ site.url }}/assets/foto6.jpg)
 > My professional goals are master Front-End technologies to become a Full Stack Developer and be part of global teams around the world.
 
 # Experience

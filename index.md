@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-![Profile Picture]({{ site.url }}/assets/foto4.jpg)
-![Profile Picture]({{ site.url }}/assets/foto5.jpg)
-![Profile Picture]({{ site.url }}/assets/foto6.jpg)
+![Profile Picture]({{ site.url }}/assets/foto6.JPG)
 > My professional goals are master Front-End technologies to become a Full Stack Developer and be part of global teams around the world.
 
 # Experience
@@ -36,9 +34,9 @@ DirecTV project. Member of a large team distributed along Rosario, Buenos Aires 
 
 [Github Public Repository](http://github.com/cmramseyer)
 
-* * *
 
-[Glass Demo App](http://162.243.107.4) User: curriculum Password: cv1234
+[Glass Demo App](http://162.243.107.4)  
+User: curriculum Password: cv1234
 
 
 # Education
@@ -66,12 +64,6 @@ DirecTV project. Member of a large team distributed along Rosario, Buenos Aires 
 </dl>
 
 
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+# Contact me!
+[cmramseyer@gmail.com](mailto:cmramseyer@gmail.com)  
+[LinkedIn profile](https://www.linkedin.com/in/carlos-ramseyer-ab1a3625/)

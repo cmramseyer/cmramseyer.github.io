@@ -35,7 +35,7 @@ DirecTV project. Member of a large team distributed along Rosario, Buenos Aires 
 [Github Public Repository](http://github.com/cmramseyer)
 
 
-[Glass Demo App](http://162.243.107.4)  
+[Glass Demo App](https://glassapp.tk)  
 User: curriculum Password: cv1234
 
 
@@ -49,7 +49,7 @@ User: curriculum Password: cv1234
 <dt>Spanish</dt>
 <dd>Native</dd>
 <dt>English</dt>
-<dd>Upper intermediate, oral and written</dd>
+<dd>Upper intermediate, spoken and written</dd>
 </dl>
 
 # Personal Data

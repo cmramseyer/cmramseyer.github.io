@@ -38,7 +38,6 @@ DirecTV project. Member of a large team distributed along Rosario, Buenos Aires 
 * Docker
 * Ubuntu
 * Github
-* Gitlab-CI
 * CircleCI
 
 # Portfolio
@@ -77,8 +76,6 @@ Soon! Not ready yet, but you can check it out anyway in my public repo!
 <dd>22/12/1986</dd>
 <dt>Current Location</dt>
 <dd>Rosario, Argentina</dd>
-<dt>Marital Status</dt>
-<dd>Single</dd>
 </dl>
 
 

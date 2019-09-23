@@ -48,8 +48,9 @@ DirecTV project. Member of a large team distributed along Rosario, Buenos Aires 
 
 ### Glass Demo App
 Functional demo hosted in Digital Ocean. Orders tracking system. Charts, statistics, WebSockets, PDF reports, Zebra labels, async tasks.
-[Link](http://162.243.107.4/)
-User: curriculum Password: cv1234
+[Link](http://162.243.107.4/)  
+User: curriculum  
+Password: cv1234
 
 ### Shop Demo App
 Functional demo hosted in AWS. Products, reviews and comments search engine using Elasticsearch. Own external fake credit card API. A FakeCreditCardApiGem to communicate core app with the external API. ActiveAdmin panel for admins.  

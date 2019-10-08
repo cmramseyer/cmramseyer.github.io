@@ -47,7 +47,7 @@ I did manual testing on DirecTV apps as member of a large team distributed among
 [Github Public Repository](http://github.com/cmramseyer)
 
 ### Glass Demo App
-Functional demo hosted in Digital Ocean. Orders tracking system. Charts, statistics, WebSockets, PDF reports, Zebra labels, async tasks.
+Functional demo hosted in Digital Ocean. Orders tracking system. Charts, statistics, WebSockets, PDF reports, Zebra labels, async tasks.  
 [Link](http://162.243.107.4/)  
 User: curriculum  
 Password: cv1234

@@ -12,7 +12,7 @@ layout: default
 I developed and deployed a resources search engine on AWS using Elasticsearch, with multi-level user roles features, asynchronous user notifications and detailed usage charts and statistics in a remote and agile team.
 
 
-### Rails Dev at Fontela Cristales (Feb. 2014 - Present)  
+### Rails Dev at Fontela Cristales (Feb. 2014 - Jan. 2019)  
 [www.fontela.com.ar](http://www.fontela.com.ar)  
 
 I developed a glass manufacture system from scratch in order to track product manufacturing through multiple factory stages making possible having real time order statuses, completion percentage and centralized information for workers, administrative staff and management.

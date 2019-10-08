@@ -2,7 +2,7 @@
 layout: default
 ---
 ![Profile Picture]({{ site.url }}/assets/foto6.JPG)
-> I am a remote Ruby on Rails developer with 5+ years of experience based in Rosario, Argentina. I am able to build from scratch any project you want in an agile environment, integrate it with a front-end framework, deploy it and maintain it on the cloud. Always looking for quality and fast delivery using automatic testing and CI technologies. I take proactive action in every project suggesting architectural solutions and helping clarifying partial or undefined features.
+> I am a remote Ruby on Rails developer with 5+ years of experience based in Rosario, Argentina. I am able to build any project you want in an agile environment, integrate it with a front-end framework, deploy it and maintain it on the cloud. Always looking for quality and fast delivery using automatic testing and CI technologies. I take proactive action in every project suggesting architectural solutions and helping clarifying partial or undefined requirements.
 
 # Experience
 

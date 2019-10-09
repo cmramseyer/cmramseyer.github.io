@@ -86,3 +86,4 @@ Password: linkedin
 # Contact me!
 [cmramseyer@gmail.com](mailto:cmramseyer@gmail.com)  
 [LinkedIn profile](https://www.linkedin.com/in/carlos-ramseyer-ab1a3625/)
+[Download Ramseyer_CV.pdf]({{ site.url }}/Ramseyer_CV.pdf)

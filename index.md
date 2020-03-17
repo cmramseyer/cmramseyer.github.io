@@ -55,6 +55,7 @@ Password: cv1234
 ### Shop Demo App
 Functional demo hosted in AWS. Products, reviews and comments search engine using Elasticsearch. Private external fake credit card API. A FakeCreditCardApiGem to communicate core app with external API. Error-tracking using Sentry. ActiveAdmin panel for admins.  
 [Link](http://18.188.26.246/)  
+Temporarily unavailable. Free-Tier plan ended and AWS started to charge me money. Will be available soon!  
 User: linkedin@shopdemo.com  
 Password: linkedin
 

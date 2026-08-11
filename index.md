@@ -43,13 +43,13 @@ Manual testing.
 
 * Ruby on Rails
 * Postgres
-* Redis
 * Sidekiq
 * WebSockets
 * Elasticsearch
-* Webpack
 * AWS
-* AWS Lex
+* React
+* Vite
+* Kafka
 * RSpec + Capybara/Selenium
 * Docker
 * CircleCI/TravisCI

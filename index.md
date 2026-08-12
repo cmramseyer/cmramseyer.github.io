@@ -16,13 +16,15 @@ layout: default
 ### MajorKey Technologies ([www.majorkeytech.com](http://www.majorkeytech.com))
 ### (Apr. 2021 - Oct. 2025)
 
-Worked on Atria Wealth Solutions' Advisor Financial Dashboard as a Senior Ruby on Rails developer, taking a lead role within the team.
+Worked on a financial advisor dashboard as a Senior Ruby on Rails developer, taking a lead role within the team.
 
 Onboarded developers and worked closely with Product Owners to assess feasibility, clarify requirements, break down epics, estimate work, and define implementation strategies.
 
 Coordinated development across multiple teams when features or production issues affected several applications and services. Helped identify deployment risks, define rollback strategies, and improve the team's approach to PR reviews, backlog grooming, and complex development tasks.
 
 Improved performance in a ~2.5 TB PostgreSQL database, including refactoring expensive data access patterns into materialized views where appropriate.
+
+Implemented React features and frontend improvements.
 
 ## Senior Ruby on Rails Developer
 ### IT Crowd ([www.itcrowd.dev](http://www.itcrowd.dev))

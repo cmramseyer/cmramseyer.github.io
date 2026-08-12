@@ -1,12 +1,18 @@
 ---
 layout: default
 ---
-![Profile Picture]({{ site.url }}/assets/picture.jpg) 
-> Rails dev with 9 years of experience, focused on performance, safe production delivery, new features design, and recent experience leading a dev team.
+![Profile Picture]({{ site.url }}/assets/picture.jpg)
+> Senior Ruby on Rails Developer with 12+ years of software development experience, including full-stack development with React, focused on performance and safe production releases.
+
+# Technical Skills
+
+* Ruby on Rails, PostgreSQL, Elasticsearch, RSpec, Selenium, Redis, Sidekiq, Action Cable
+* React, TypeScript, TanStack Query
+* Kafka, Docker, AWS, CI/CD, OpenAPI/Swagger
 
 # Experience
 
-### Rails Dev at MajorKey Technologies (Apr. 2021 - Present)  
+### Lead Ruby on Rails Developer at MajorKey Technologies (Apr. 2021 - Oct. 2025)  
 [www.majorkeytech.com](http://www.majorkeytech.com)  
 
 Working for Atria Wealth Solutions. Advisor Financial Dashboard app.  
@@ -18,15 +24,15 @@ Wrote team process guidelines for PR Reviews, Sprint Groomings, and the approach
 Worked on several performance optimization tasks on a big Postges database (~2.5TB). Refactored data into materialized views when it was necessary.  
 
 
-### Rails Dev at IT Crowd Argentina (Feb. 2019 - Mar. 2021)  
-[www.itcrowdarg.com](http://www.itcrowdarg.com)  
+### Senior Ruby on Rails Developer at IT Crowd (Feb. 2019 - Mar. 2021)  
+[www.itcrowd.dev](http://www.itcrowd.dev)  
 
 Developed and deployed a resources search engine on AWS EC2 using Elasticsearch, with multi-level user roles features, asynchronous user notifications and detailed usage charts and statistics in a remote and agile team.  
 Built a chatbot with AWS Lex.
 Took an active role suggesting changes and features alternatives because we did not have a Business Analyst role, and the Product Owner did not have former tech projects experience.
 
 
-### Rails Dev at Fontela Cristales (Feb. 2014 - Jan. 2019)  
+### Mid-Level Ruby on Rails Developer at Fontela (Feb. 2014 - Feb. 2019)  
 [www.fontela.com.ar](http://www.fontela.com.ar)  
 
 Developed a glass windows manufacture system from scratch in order to track product manufacturing through multiple factory stages making possible having real time order statuses, completion percentage and centralized information for workers, administrative staff and management.  
@@ -34,31 +40,16 @@ Integrated the application with many cutting glass system softwares (Opty-Way) a
 
 * * *
 
-### Tester at Neoris (Sep. 2011 - Feb. 2013)  
+### QA Automation Tester at Neoris (Sep. 2011 - Feb. 2013)  
 [www.neoris.com](http://www.neoris.com)  
 
-Manual testing.
-  
-# Technologies
-
-* Ruby on Rails
-* Postgres
-* Sidekiq
-* WebSockets
-* Elasticsearch
-* AWS
-* React
-* Vite
-* Kafka
-* RSpec + Capybara/Selenium
-* Docker
-* CircleCI/TravisCI
+Automated testing with Selenium.
 
 
 # Portfolio
 
-### Public Repo
-[Github Public Repository](http://github.com/cmramseyer)
+### GitHub
+[http://github.com/cmramseyer](http://github.com/cmramseyer)
 
 ### Glass Demo App
 Functional demo hosted in Digital Ocean. Orders tracking system. Charts, statistics, WebSockets, PDF reports, Zebra labels, async tasks.  
@@ -68,29 +59,20 @@ Password: cv1234
 
 
 # Education
-### Information Systems Engineering (2004 - 2013)
-**UTN Rosario**. Incomplete. 90% done.
+#### Information Systems Engineering (UTN Rosario)
 
 
 # Languages
-<dl>
-<dt>Spanish</dt>
-<dd>Native</dd>
-<dt>English</dt>
-<dd>Upper intermediate, fluent.</dd>
-</dl>
-
-# Personal Data
-
-<dl>
-<dt>Born Date</dt>
-<dd>22/12/1986</dd>
-<dt>Current Location</dt>
-<dd>Rosario, Argentina</dd>
-</dl>
+#### Spanish: Native
+#### English: B2 (Upper-Intermediate)
 
 
-# Contact me!
+# Location
+#### Rosario, Argentina
+#### Remote (LATAM)
+
+
+# Contact me
 [cmramseyer@gmail.com](mailto:cmramseyer@gmail.com)  
-[LinkedIn profile](https://www.linkedin.com/in/carlos-ramseyer-ab1a3625/)  
+[www.ramseyer.com.ar](http://www.ramseyer.com.ar)  
 [Download Ramseyer_CV_Ruby.pdf]({{ site.url }}/Ramseyer_CV_Ruby.pdf)

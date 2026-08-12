@@ -2,7 +2,7 @@
 layout: default
 ---
 ![Profile Picture]({{ site.url }}/assets/picture.jpg)
-> Senior Ruby on Rails Developer with 12+ years of software development experience, including full-stack development with React, focused on performance and safe production releases.
+> Senior Ruby on Rails Developer with 12+ years of software development experience building and maintaining complex systems, including legacy applications, third-party integrations, performance-critical workloads, and products built from scratch. Experienced in technical leadership, cross-team coordination, safe production releases, and full-stack development with React.
 
 # Technical Skills
 
@@ -10,41 +10,47 @@ layout: default
 * React, TypeScript, TanStack Query
 * Kafka, Docker, AWS, CI/CD, OpenAPI/Swagger
 
-# Experience
+# Professional Experience
 
-### Lead Ruby on Rails Developer at MajorKey Technologies (Apr. 2021 - Oct. 2025)  
-[www.majorkeytech.com](http://www.majorkeytech.com)  
+## Lead Ruby on Rails Developer
+### MajorKey Technologies ([www.majorkeytech.com](http://www.majorkeytech.com))
+### (Apr. 2021 - Oct. 2025)
 
-Working for Atria Wealth Solutions. Advisor Financial Dashboard app.  
-My role was Senior Ruby dev, but acted as Lead Ruby dev.  
-Onboarding of new members. Working with Product Owners in Backlog, identifying feasibility and early lack of definition. Helped with Epic stories and new features: splitting them into smaller parts, estimation, and defining a dev strategy to start working as soon as possible with complete information.  
-Took the lead coordinating work when a new feature or bug affects multiple microservices/systems and many teams were involved.  
-Helped devs identifying production deployment risks when they were working on their tasks.  
-Wrote team process guidelines for PR Reviews, Sprint Groomings, and the approach and recommendations to tackle complex tasks.  
-Worked on several performance optimization tasks on a big Postges database (~2.5TB). Refactored data into materialized views when it was necessary.  
+Worked on Atria Wealth Solutions' Advisor Financial Dashboard as a Senior Ruby on Rails developer, taking a lead role within the team.
 
+Onboarded developers and worked closely with Product Owners to assess feasibility, clarify requirements, break down epics, estimate work, and define implementation strategies.
 
-### Senior Ruby on Rails Developer at IT Crowd (Feb. 2019 - Mar. 2021)  
-[www.itcrowd.dev](http://www.itcrowd.dev)  
+Coordinated development across multiple teams when features or production issues affected several applications and services. Helped identify deployment risks, define rollback strategies, and improve the team's approach to PR reviews, backlog grooming, and complex development tasks.
 
-Developed and deployed a resources search engine on AWS EC2 using Elasticsearch, with multi-level user roles features, asynchronous user notifications and detailed usage charts and statistics in a remote and agile team.  
+Improved performance in a ~2.5 TB PostgreSQL database, including refactoring expensive data access patterns into materialized views where appropriate.
+
+## Senior Ruby on Rails Developer
+### IT Crowd ([www.itcrowd.dev](http://www.itcrowd.dev))
+### (Feb. 2019 - Mar. 2021)
+
+Built and deployed a resource search application from scratch on AWS EC2 using Elasticsearch, with role-based access control (RBAC), asynchronous notifications, and usage dashboards with charts and statistics.
+
+Proposed product and technical alternatives in the absence of a Business Analyst, helping the Product Owner clarify requirements and evaluate feature options.
+
 Built a chatbot with AWS Lex.
-Took an active role suggesting changes and features alternatives because we did not have a Business Analyst role, and the Product Owner did not have former tech projects experience.
 
+Maintained a legacy medical appointment application with multiple third-party API integrations.
 
-### Mid-Level Ruby on Rails Developer at Fontela (Feb. 2014 - Feb. 2019)  
-[www.fontela.com.ar](http://www.fontela.com.ar)  
+## Mid-Level Ruby on Rails Developer
+### Fontela Cristales ([www.fontela.com.ar](http://www.fontela.com.ar))
+### (Feb. 2014 - Feb. 2019)
 
-Developed a glass windows manufacture system from scratch in order to track product manufacturing through multiple factory stages making possible having real time order statuses, completion percentage and centralized information for workers, administrative staff and management.  
-Integrated the application with many cutting glass system softwares (Opty-Way) and billing system (Tango Gestion). 
+Built a glass manufacturing management system from scratch to track production across multiple factory stages.
 
-* * *
+Implemented real-time order tracking, production progress monitoring, and centralized operational information for factory workers, administrative staff, and management.
 
-### QA Automation Tester at Neoris (Sep. 2011 - Feb. 2013)  
-[www.neoris.com](http://www.neoris.com)  
+Integrated the application with Opty-Way glass-cutting software and the Tango Gestión billing system.
+
+## QA Automation Tester
+### Neoris ([www.neoris.com](http://www.neoris.com))
+### (Sep. 2011 - Feb. 2013)
 
 Automated testing with Selenium.
-
 
 # Portfolio
 

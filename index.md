@@ -81,6 +81,4 @@ Password: cv1234
 
 
 # Contact me
-[cmramseyer@gmail.com](mailto:cmramseyer@gmail.com)  
-[www.ramseyer.com.ar](http://www.ramseyer.com.ar)  
-[Download Ramseyer_CV_Ruby.pdf]({{ site.url }}/Ramseyer_CV_Ruby.pdf)
+[cmramseyer@gmail.com](mailto:cmramseyer@gmail.com)

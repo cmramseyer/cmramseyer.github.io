@@ -13,7 +13,7 @@ layout: default
 # Professional Experience
 
 ## Lead Ruby on Rails Developer
-### MajorKey Technologies ([www.majorkeytech.com](http://www.majorkeytech.com))
+### Kopius ([www.kopiustech.com](http://www.kopiustech.com))
 ### (Apr. 2021 - Oct. 2025)
 
 Worked on a financial advisor dashboard as a Senior Ruby on Rails developer, taking a lead role within the team.

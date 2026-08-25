@@ -22,7 +22,7 @@ Onboarded developers and worked closely with Product Owners to assess feasibilit
 
 Coordinated development across multiple teams when features or production issues affected several applications and services. Helped identify deployment risks, define rollback strategies, and improve the team's approach to PR reviews, backlog grooming, and complex development tasks.
 
-Improved performance in a ~2.5 TB PostgreSQL database, including refactoring expensive data access patterns into materialized views where appropriate.
+Improved PostgreSQL performance in a large-scale production database, including refactoring expensive data access patterns into materialized views where appropriate.
 
 Implemented React features and frontend improvements.
 

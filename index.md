@@ -58,13 +58,13 @@ Automated testing with Selenium.
 
 ### Agricultural work order tracking App (Rails + React)
 Application that tracks work orders, monitors their progress, and generates operational reports.
-[arv.ramseyer.com.ar](arv.ramseyer.com.ar)  
+[arv.ramseyer.com.ar](https://arv.ramseyer.com.ar)  
 Email: demo@example.com  
 Password: arvdemo
 
 ### Glass Processing App (Rails)
 Functional demo hosted in Digital Ocean. Orders tracking system. Charts, statistics, WebSockets, PDF reports, Zebra labels, async tasks.  
-[glass.ramseyer.com.ar](glass.ramseyer.com.ar)  
+[glass.ramseyer.com.ar](https://glass.ramseyer.com.ar)  
 User: curriculum  
 Password: cv1234
 

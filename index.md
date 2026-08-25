@@ -56,14 +56,20 @@ Automated testing with Selenium.
 
 # Portfolio
 
-### GitHub
-[http://github.com/cmramseyer](http://github.com/cmramseyer)
+### Agricultural work order tracking App (Rails + React)
+Application that tracks work orders, monitors their progress, and generates operational reports.
+[arv.ramseyer.com.ar](arv.ramseyer.com.ar)  
+Email: demo@example.com  
+Password: arvdemo
 
-### Glass Demo App
+### Glass Processing App (Rails)
 Functional demo hosted in Digital Ocean. Orders tracking system. Charts, statistics, WebSockets, PDF reports, Zebra labels, async tasks.  
-[Link](http://162.243.107.4/)  
+[glass.ramseyer.com.ar](glass.ramseyer.com.ar)  
 User: curriculum  
 Password: cv1234
+
+### GitHub
+[http://github.com/cmramseyer](http://github.com/cmramseyer)
 
 
 # Education
